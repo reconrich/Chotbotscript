@@ -2,7 +2,7 @@ const frontend = {
     "status": 200,
     "frontend": {
         "chatbot_name": "RMTBOT",
-        "initial_message": "Hello friend...Welcome to <b>Ridiculous Machine Tools!</b> I'm RMTBOT, I'm here to help you in any way I can. I am new to the site as well and learning everyday how I can be more helpful to fellow machinists like yourself, feel free to ask me any techincal questions you may have or if you need help finding something you are looking for?,  If I dont know the answer I will the next time you come and visit.",
+        "initial_message": "Hello friend...Welcome to <b>Ridiculous Machine Tools!</b> I'm RMTBOT, I am here to help you with any Technical questions or finding the right product,  Let me know how I can help today..",
         "widget_button_url": "https://vissi-moedels.vercel.app/ttp_chatbot_widget.gif",
         "chatbot_dp_url": "https://vissi-moedels.vercel.app/ttp_chatbot_dp.png",
         "user_message_color": "#080808",
